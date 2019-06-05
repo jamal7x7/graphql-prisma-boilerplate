@@ -1,0 +1,49 @@
+{
+    // ! //////////////////////////COLORS//////////////////////////
+
+    //https://vscode.readthedocs.io/en/latest/getstarted/theme-color-reference/
+
+    "workbench.colorCustomizations": {
+        // "editor.background": "#1b1d29",
+        // "editor.background": "#272754",
+        // "editor.background": "#2C2A59",
+        // "editor.background": "#1C1A2B",
+        "editor.background": "#282541",
+        "editorCursor.foreground": "#5900ff",
+        // "statusBar.background": "#252338",
+        "statusBar.noFolderBackground": "#252338",
+        "statusBar.debuggingBackground": "#252338",
+        //     "panel.background": "#1b1d29",
+        "panel.background": "#1C1A2B",
+        "list.hoverBackground": "#3B3661",
+        "list.inactiveSelectionBackground": "#00000017",
+        "sideBar.border": "#22223300",
+        // "sideBar.background": "#2C2A59",
+        "sideBar.background": "#282541",
+        "editorGutter.background": "#00000017",
+        "tab.activeBackground": "#282541",
+        "activityBar.background": "#222233",
+        "tab.inactiveBackground": "#282541",
+        "tab.activeBorder": "#443e70",
+        "titleBar.activeBackground": "#282541",
+        "tab.hoverBackground": "#3B3661",
+        "tab.inactiveForeground": "#625a9e",
+        "editorGroupHeader.tabsBackground": "#282541",
+        "editorGroup.border": "#443e7000",
+        "scrollbar.shadow": "#443e7000",
+        "editorOverviewRuler.border": "#ff00f200",
+
+        // ? /////////////////////BACKEND/////////////////////////
+
+        // "statusBar.background": "#5900ff",
+        // "statusBar.background": "#ff00d4",
+        "statusBar.background": "#00C7A6",
+        "statusBar.border": "#5900ff",
+        "statusBar.foreground": "#1C1A2B"
+    },
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "debug.internalConsoleOptions": "neverOpen",
+    "workbench.colorTheme": "Palenight Operator",
+    "sync.gist": "a3c06a6fdd838a14537ba5580071d90c"
+}

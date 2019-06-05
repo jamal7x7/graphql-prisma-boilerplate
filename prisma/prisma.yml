@@ -1,0 +1,6 @@
+endpoint: ${env:PRISMA_ENDPOINT}
+datamodel: datamodel.graphql
+secret: ${env:PRISMA_SECRET}
+# endpoint: http://localhost:4466/default/test
+# datamodel: datamodel.prisma
+# secret: hjhdbffds!sd
